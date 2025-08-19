@@ -10,11 +10,9 @@ DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,.tmall.
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
-IP-CIDR,47.91.24.0/24,no-resolve
-IP-CIDR,47.91.14.0/24,no-resolve
-IP-CIDR,8.211.144.0/24,no-resolve
-IP-CIDR,47.245.60.0/24,no-resolve
-IP-CIDR,47.245.63.0/24,no-resolve
+IP-CIDR,47.91,0.0/16,no-resolve
+IP-CIDR,8.211.0.0/16,no-resolve
+IP-CIDR,47.245.0.0/16,no-resolve
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 # China
 DOMAIN-SUFFIX,CN
