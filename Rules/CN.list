@@ -4,6 +4,7 @@ USER-AGENT,WeChat*
 USER-AGENT,MApi* // Dianping
 # Ali
 DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
