@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,shence.hupu.com
 DOMAIN-KEYWORD,tzmutone,REJECT,extended-matching
 DOMAIN-KEYWORD,umeng,REJECT,extended-matching
 DOMAIN,loggw-ex.alipay.com:443
+DOMAIN,cm.bilibili.com
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
 # Block iOS Update
 DOMAIN,gdmf.apple.com
 DOMAIN,gdmf.apple.com.akadns.net
