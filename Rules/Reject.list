@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,ccdace.hupu.com
 DOMAIN-SUFFIX,coothupu.net
 DOMAIN-SUFFIX,hd.hupu.com
 DOMAIN-SUFFIX,shence.hupu.com
-DOMAIN-KEYWORD,tzmutone,REJECT,extended-matching
-DOMAIN-KEYWORD,umeng,REJECT,extended-matching
+DOMAIN-KEYWORD,tzmutone
+DOMAIN-KEYWORD,umeng
 DOMAIN,loggw-ex.alipay.com:443
 DOMAIN,cm.bilibili.com
 DOMAIN-SUFFIX,szbdyd.com
