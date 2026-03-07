@@ -17,17 +17,3 @@ DOMAIN,cm.bilibili.com
 DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN,lf3-static.bytednsdoc.com
-# Block iOS Update
-DOMAIN,gdmf.apple.com
-DOMAIN,gdmf.apple.com.akadns.net
-DOMAIN,mesu.apple.com
-DOMAIN,mesu-cdn.apple.com.akadns.net
-DOMAIN,mesu-cdn.origin-apple.com.akadns.net
-DOMAIN,mesu.g.aaplimg.com
-DOMAIN,appldnld.apple.com
-DOMAIN,appldnld.apple.com.akadns.net
-DOMAIN-SUFFIX,swdist.apple.com
-DOMAIN-SUFFIX,xp.apple.com
-DOMAIN-SUFFIX,swscan.apple.com
-DOMAIN-SUFFIX,download.parallels.cn
-DOMAIN-SUFFIX,download.parallels.com
