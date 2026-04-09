@@ -15,5 +15,7 @@ DOMAIN-KEYWORD,biliapi
 DOMAIN,loggw-ex.alipay.com:443
 DOMAIN,cm.bilibili.com
 DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,api.zhihu.com
+DOMAIN-SUFFIX,api.douban.com
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN,lf3-static.bytednsdoc.com
