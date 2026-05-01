@@ -23,3 +23,8 @@ DOMAIN-SUFFIX,api.zhihu.com
 DOMAIN-SUFFIX,api.douban.com
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN,lf3-static.bytednsdoc.com
+# BlockiosUpdate
+DOMAIN,mesu.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,xp.apple.com
