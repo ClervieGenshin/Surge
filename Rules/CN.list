@@ -29,7 +29,8 @@ DOMAIN-SUFFIX,imap.mail.ru
 DOMAIN-SUFFIX,imap.mail.com
 DOMAIN-SUFFIX,imap.mail.yahoo.com
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,bilibili
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-KEYWORD,hupu
 DOMAIN-KEYWORD,nga
 DOMAIN-SUFFIX,nga.178.com
