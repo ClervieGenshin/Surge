@@ -1,3 +1,28 @@
+# Apple TV App / iTunes / Apple Media
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,media.apple.com
+DOMAIN-SUFFIX,api.tv.apple.com
+DOMAIN-SUFFIX,uts-api.itunes.apple.com
+DOMAIN-SUFFIX,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,play.itunes.apple.com
+DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,video-edge-*.apple.com
+DOMAIN-SUFFIX,video-*.apple.com
+DOMAIN-SUFFIX,hls-*.apple.com
+DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,streaming.itunes.apple.com
+DOMAIN-SUFFIX,store.apple.com
+DOMAIN-SUFFIX,store-analytics.itunes.apple.com
+DOMAIN-SUFFIX,store.apple.com.edgekey.net
+DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
+
+# CDN（Apple TV 视频流）
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,edgekey.net
+
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
