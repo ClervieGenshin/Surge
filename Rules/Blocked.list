@@ -23,6 +23,12 @@ DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,edgekey.net
 
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes.com,PROXY
+DOMAIN-SUFFIX,lookup-api.apple.com
+DOMAIN-SUFFIX,apple.com
+
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
