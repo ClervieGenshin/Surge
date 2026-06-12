@@ -1,25 +1,14 @@
-# App Store 主域
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,itunes.apple.com
+# DOMAIN-SUFFIX,apps.apple.com
+# DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
-
-# CDN / 图片资源
 DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
 DOMAIN-SUFFIX,aaplimg.com
-
-# Apple 主域（包含 App Store 购买、验证）
-DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,lookup-api.apple.com
-DOMAIN-SUFFIX,me.com
-
-# iCloud（部分 App Store 资源会触发）
-DOMAIN-SUFFIX,icloud.com
+# DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud-content.com
-
-# App Store 下载进程 / UA
-PROCESS-NAME,storedownloadd
-USER-AGENT,com.apple.appstored*
+DOMAIN-SUFFIX,icloud.com
+# DOMAIN-SUFFIX,itunes.com
+# DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary DOMAIN-SUFFIX,me.com
+PROCESS-NAME,storedownloadd // Mac App Store USER-AGENT,com.apple.appstored* // iOS App Store
