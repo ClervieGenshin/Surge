@@ -1,3 +1,20 @@
+[Rule]
+# Douyin 去广告
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,bytegoofy.com
+
+# 重点广告接口（精准拦截）
+URL-REGEX,^https?:\/\/.*\/v1\/(ad|ads|advert|log)\/
+URL-REGEX,^https?:\/\/.*\/api\/ad\/
+URL-REGEX,^https?:\/\/.*\/api\/ad\/v\d\/
+URL-REGEX,^https?:\/\/.*\/service\/2\/app_log\/
+URL-REGEX,^https?:\/\/.*\/service\/2\/log\/
+
 DOMAIN-SUFFIX,goblin.hupu.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
