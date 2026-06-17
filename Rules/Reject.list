@@ -5,14 +5,6 @@ DOMAIN,updates-http.cdn-apple.com
 DOMAIN,xp.apple.com
 
 # Douyin 去广告
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,bytegoofy.com
-
 # 重点广告接口（精准拦截）
 URL-REGEX,^https?:\/\/.*\/v1\/(ad|ads|advert|log)\/
 URL-REGEX,^https?:\/\/.*\/api\/ad\/
