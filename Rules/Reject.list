@@ -12,22 +12,6 @@ URL-REGEX,^https?:\/\/.*\/api\/ad\/v\d\/
 URL-REGEX,^https?:\/\/.*\/service\/2\/app_log\/
 URL-REGEX,^https?:\/\/.*\/service\/2\/log\/
 
-#DOMAIN-SUFFIX,goblin.hupu.com
-#DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-#DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
-#DOMAIN-SUFFIX,orz.hupu.com
-#DOMAIN-SUFFIX,hupu-nba.com
-#DOMAIN-SUFFIX,hupuzhibo.cn
-#DOMAIN-SUFFIX,adx-api.hupu.com
-#DOMAIN-SUFFIX,adx.hupu.com
-#DOMAIN-SUFFIX,cc.dace.hupu.com
-#DOMAIN-SUFFIX,ccdace.hupu.com
-#DOMAIN-SUFFIX,coothupu.net
-#DOMAIN-SUFFIX,hd.hupu.com
-#DOMAIN-SUFFIX,collect.hupu.com
-#DOMAIN-SUFFIX,zk-hupusports.com
-#DOMAIN-SUFFIX,hd-live-hupu.com
-#DOMAIN-SUFFIX,shence.hupu.com
 DOMAIN-SUFFIX,fp.tongdun.net
 DOMAIN-SUFFIX,passport.liangle.com
 DOMAIN-KEYWORD,tzmutone
@@ -39,4 +23,3 @@ DOMAIN-SUFFIX,api.zhihu.com
 DOMAIN-SUFFIX,api.douban.com
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN,httpdns.bilivideo.com
-#DOMAIN,lf3-static.bytednsdoc.com
