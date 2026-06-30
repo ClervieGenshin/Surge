@@ -16,6 +16,13 @@ DOMAIN-SUFFIX,store-analytics.itunes.apple.com
 DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
 
+# Apple News 核心分流
+USER-AGENT,AppleNews*
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,apple.comscoreresearch.com
+
 # CDN（Apple TV 视频流）
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-cloudkit.com
