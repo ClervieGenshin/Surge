@@ -1,8 +1,11 @@
 # BlockiosUpdate
-# DOMAIN,mesu.apple.com
-# DOMAIN,gdmf.apple.com
-# DOMAIN,updates-http.cdn-apple.com
-# DOMAIN,xp.apple.com
+DOMAIN,swscan.apple.com
+DOMAIN,swdist.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,xp.apple.com
 
 # Douyin 去广告
 # 重点广告接口（精准拦截）
